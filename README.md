@@ -1,2 +1,3 @@
-# reinforcement-learning
-My learning process for machine learning and reinforcement learning
+# Reinforcement-learning
+
+Some fun samples of Reinforcement learning from scratch for fun! 
